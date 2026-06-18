@@ -1,2 +1,0 @@
-# HAMERIS-
-E.J.S.APP
